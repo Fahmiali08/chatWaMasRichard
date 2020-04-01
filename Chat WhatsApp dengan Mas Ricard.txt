@@ -1,0 +1,201 @@
+12/11/19 10.27 - Pesan yang dikirim ke chat ini dan panggilan kini diamankan dengan enkripsi end-to-end. Ketuk untuk info selengkapnya.
+12/11/19 10.27 - Mas Ricard: coba pull ini dari  git:
+
+http://gitlab.dmsum.com/mentimun-app/WarehouseAndProductStock.git
+
+http://gitlab.dmsum.com/mentimun-app/WarehouseAndProductStockMigration.git
+12/11/19 10.30 - Mas Ricard: kalau udh dipull kasih tau ke aku yah
+12/11/19 10.35 - Fahmi Ali: <Media tidak disertakan>
+12/11/19 13.37 - Mas Ricard: gimana? bisa ga?
+12/11/19 13.38 - Fahmi Ali: baru bisa konek mas
+12/11/19 13.38 - Mas Ricard: oke, coba dipull lagi
+12/11/19 13.39 - Fahmi Ali: <Media tidak disertakan>
+12/11/19 13.40 - Fahmi Ali: Fahmi.ali
+Mentimun19
+12/11/19 13.44 - Mas Ricard: Tunggu yah aku mintakan akses dulu
+12/11/19 13.44 - Fahmi Ali: iya siap mas, maksih
+13/11/19 14.04 - Mas Ricard: ini yg kamu pull:
+1. rest-api: http://svn.jatis.com/LICNMENDMS01_Mobileapi/Branch/dev-mentimun
+2. product revamp: http://gitlab.dmsum.com/mentimun-app/WarehouseAndProductStock.git
+3. auth revamp: http://gitlab.dmsum.com/mentimun-app/WarungAPI.git
+4. migration revamp: http://gitlab.dmsum.com/mentimun-app/WarehouseAndProductStockMigration.git
+5. UI revamp: http://gitlab.dmsum.com/mentimun-app/WarungAPI-UI.git
+13/11/19 14.05 - Fahmi Ali: saya checkout dulu jangan mas?
+13/11/19 14.05 - Mas Ricard: maksudnya gimana?
+13/11/19 14.05 - Mas Ricard: iya kamu checkout yg rest-api
+13/11/19 14.05 - Mas Ricard: yg lainnya itu dari github
+13/11/19 14.06 - Mas Ricard: dipull aja pakai gitbash
+13/11/19 14.06 - Fahmi Ali: ohh iya siap mas
+13/11/19 14.06 - Mas Ricard: nanti butuh nodejs juga untuk UI nya
+13/11/19 14.06 - Mas Ricard: sama npm
+13/11/19 14.06 - Mas Ricard: typescript juga
+13/11/19 14.08 - Mas Ricard: soalnya UI itu kan pakai angular, jadi mesti paham angular 😁👍
+13/11/19 14.08 - Mas Ricard: ini step2 untuk instalasi angular:
+
+https://www.tutorialspoint.com/angular7/angular7_environment_setup.htm
+13/11/19 14.12 - Fahmi Ali: <Media tidak disertakan>
+13/11/19 14.13 - Mas Ricard: yg ini bukan SVN tapi git
+13/11/19 14.13 - Mas Ricard: nomor 1 itu pakai SVN, nomor 2 dan seterusnya pakai git
+13/11/19 14.13 - Fahmi Ali: ohh iya mas
+13/11/19 14.14 - Fahmi Ali: ini no 1 mas, tapi forbiden
+13/11/19 14.15 - Fahmi Ali: <Media tidak disertakan>
+13/11/19 14.17 - Mas Ricard: http://svn.jatis.com/LICNMENDMS01_Mobileapi/Trunk/dev/rest-api
+13/11/19 14.28 - Fahmi Ali: udh saya install mas
+13/11/19 14.29 - Mas Ricard: coba dicek apakah semuanya berjalan dengan lancar. coba bikin sample project
+13/11/19 14.35 - Mas Ricard: Connection Name : Mentimun-PROD
+Host Name/IP Address : localhost
+Port : 5432
+Initial Database : etalaze_prod_db
+User Name : etalaze_prod_user
+Password : MaiPassW
+13/11/19 14.38 - Mas Ricard: Connection Name : Mentimun Staging
+Host Name/IP Address : 10.10.1.111
+Port : 5432
+Initial Database : etalaze_prod_db
+User Name : etalaze_prod_user
+Password : password
+13/11/19 14.42 - Mas Ricard: Connection Name : Mentimun Development
+Host Name/IP Address : 10.10.1.111
+Port : 5432
+Initial Database : etalaze_dev_db
+User Name : etalaze_dev_user
+Password : password
+13/11/19 14.53 - Mas Ricard: https://stackoverflow.com/questions/37991556/ng-is-not-recognized-as-an-internal-or-external-command
+13/11/19 15.36 - Mas Ricard: gimana udah bisa belom?
+13/11/19 15.36 - Fahmi Ali: udah mas
+13/11/19 15.37 - Mas Ricard: oke coba bikin projek
+13/11/19 15.37 - Fahmi Ali: <Media tidak disertakan>
+13/11/19 15.37 - Fahmi Ali: saya udah coba kaya gini mas
+15/11/19 13.30 - Fahmi Ali: mas, sekarang saya ngapain?
+15/11/19 13.40 - Mas Ricard: ntar agak sorean lanjut yg kemarin
+15/11/19 13.40 - Fahmi Ali: Oke siap mas
+15/11/19 13.56 - Mas Ricard: kamu belajar2 angular aja dulu, ini link tutorialnya:
+
+https://www.youtube.com/watch?v=0eWrpsCLMJQ&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ
+15/11/19 13.57 - Fahmi Ali: Oke mas
+15/11/19 13.58 - Mas Ricard: kalau mau belajar dari typescript dulu juga bisa:
+
+https://www.youtube.com/watch?v=YPShu0H3RbM&list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU
+15/11/19 17.06 - Fahmi Ali: mas, minta langkah2 yang tadi
+15/11/19 17.06 - Mas Ricard: <Media tidak disertakan>
+15/11/19 17.07 - Fahmi Ali: makasih mas
+15/11/19 17.07 - Mas Ricard: iya
+15/11/19 17.27 - Fahmi Ali: <Media tidak disertakan>
+15/11/19 17.28 - Mas Ricard: Mentimun DEV/STAG
+Host : 10.10.1.111
+Port : 22
+Username : dmsumdev
+Password : !M3ntimundev!
+15/11/19 17.28 - Mas Ricard: build lokal dulu yah
+15/11/19 17.28 - Mas Ricard: jgn langsung deploy
+18/11/19 16.25 - Fahmi Ali: ‎IMG-20191118-WA0006.jpg (file terlampir)
+mas saya coba build di lokal, tapi kaya gini
+18/11/19 17.15 - Fahmi Ali: mas udah jalan semua, tinggal login
+18/11/19 17.16 - Mas Ricard: Pesan ini telah dihapus
+18/11/19 17.16 - Mas Ricard: username: richard
+password: 123456
+19/11/19 13.36 - Mas Ricard: https://drive.google.com/file/d/1vOgQJzgK3DZzVBEYinzk2nXlQp1Uh67i/view?usp=sharing
+19/11/19 13.36 - Mas Ricard: ini dokumentasi dari aku yah
+19/11/19 13.36 - Fahmi Ali: ohh oke siap mas
+22/11/19 16.05 - Fahmi Ali: udah mas
+22/11/19 16.52 - Mas Ricard: http://dev.mentimun.co.id/WarungAPI-UI/login
+25/11/19 16.56 - Fahmi Ali: ‎IMG-20191125-WA0016.jpg (file terlampir)
+mas, saya coba select master_product di database pgadmin, tapi malah kaya gini
+25/11/19 17.04 - Mas Ricard: bentar yah, nanti aku cek
+25/11/19 17.04 - Mas Ricard: coba kasih ss full nya
+25/11/19 17.05 - Fahmi Ali: ‎IMG-20191125-WA0017.jpg (file terlampir)
+25/11/19 17.17 - Mas Ricard: ‎IMG-20191125-WA0018.jpg (file terlampir)
+aku bisa kok, sepertinya ada yg salah dengan pgadminmu
+25/11/19 17.17 - Mas Ricard: databasenya di double click dulu trus pilih query tool
+25/11/19 17.18 - Fahmi Ali: udah mas, tapi ttp kaya tadi errornya
+03/12/19 11.16 - Fahmi Ali: mas, saya mau coba revamp yang add order
+saya bikinnya digabungin sama WarehouseAndProductStock apa bikin service baru mas?
+03/12/19 11.17 - Mas Ricard: sebaiknya yang addOrder kamu bikin baru aja, gabung dengan WarehouseAndProductStock
+03/12/19 11.20 - Mas Ricard: analisa API addOrder yang sudah ada trus kalau ada nembak API lain kamu bisa contoh caranya gimana nembak api itu, trus kalau ada ngambil data dari database existing yang ga ada tablenya di database baru, kamu bisa buat API baru di rest-api sebagai jembatan, nanti API itu kamu panggil di WarehouseAndProductStock
+03/12/19 11.25 - Fahmi Ali: iya siap mas, terus ini saya bikin tabel baru engga mas di database warehouseandproductstock?
+03/12/19 13.07 - Mas Ricard: tergantung kebutuhanmu
+03/12/19 13.08 - Mas Ricard: kalau menurutku pakai table yg lama aja di existing kalau soal order
+03/12/19 13.09 - Fahmi Ali: ohh oke siap mas, makasih
+05/12/19 14.25 - Fahmi Ali: mas maaf, saya minta request yg addOrder
+05/12/19 14.25 - Mas Ricard: request addOrder yg existing?
+05/12/19 14.25 - Mas Ricard: bisa lihat aja di log
+05/12/19 14.26 - Fahmi Ali: ohh iya siap mas
+05/12/19 14.26 - Mas Ricard: sip
+18/12/19 11.20 - Fahmi Ali: ‎IMG-20191218-WA0001.jpg (file terlampir)
+mas, saya coba kirim object pas nembak ke rsst-api, tapi pas di apinya null semua mas
+18/12/19 11.53 - Mas Ricard: coba di debug ada error ga?
+18/12/19 13.26 - Fahmi Ali: ‎IMG-20191218-WA0004.jpg (file terlampir)
+udah saya debug mas, tapi dia engga masuk kondisi ini
+18/12/19 14.13 - Mas Ricard: sessionnya ga ada berarti
+18/12/19 14.13 - Fahmi Ali: iya mas, dia null
+18/12/19 14.14 - Mas Ricard: coba gambarnya full
+18/12/19 14.14 - Mas Ricard: ini di rest api? atau api baru?
+18/12/19 14.14 - Fahmi Ali: di rest api mas
+18/12/19 14.15 - Fahmi Ali: ‎IMG-20191218-WA0005.jpg (file terlampir)
+18/12/19 14.16 - Mas Ricard: requestnya gimana?
+18/12/19 14.16 - Mas Ricard: ada header ga?
+18/12/19 14.17 - Fahmi Ali: ‎IMG-20191218-WA0006.jpg (file terlampir)
+ini requestnya mas
+18/12/19 14.18 - Mas Ricard: maksudnya request json
+18/12/19 14.18 - Mas Ricard: ada header jg ga?
+18/12/19 14.18 - Mas Ricard: request header
+18/12/19 14.21 - Fahmi Ali: Anda telah menghapus pesan ini
+18/12/19 14.22 - Fahmi Ali: ‎IMG-20191218-WA0008.jpg (file terlampir)
+ini mas
+18/12/19 14.42 - Mas Ricard: request bodynya
+18/12/19 14.43 - Fahmi Ali: { 
+   
+   "downPaymentAmount":0,
+   "installmentAmount":-1,
+   "installmentPeriod":0,
+   "listOrderItems":[ 
+      { 
+         "orderItemId":0,
+         "merchantId":0,
+         "productId":64810,
+         "skuId":64099,
+         "quantity":1,
+         "orderId":0,
+         "orderDeliveryId":0,
+         "weight":0.0,
+         "isTaxed":false,
+         "isPkp":false,
+         "bundleProductReward":false,
+         "warungSellingPrice":5500,
+         "userId":0,
+         "loginType":0,
+         "customerId":0,
+         "agentId":0
+      }
+   ],
+   "giftCouponId":0,
+   "financingEcosystemId":1,
+   "installmentFlag":false,
+   "isAddm":true,
+   "usingDanaTalangan":false,
+   "effDanaTalanganTopId":0,
+   "pricingEcosystemId":0,
+   "userId":133490,
+   "token":"dbfecfdf-b7ad-4b1e-ab93-89692105dc8a",
+   "loginType":0,
+   "customerId":17818,
+   "agentId":0,
+   "deviceId":"da9b43b46987b76e"
+}
+18/12/19 14.46 - Mas Ricard: kayaknya kamu ga ngirim request bodynya di sini
+18/12/19 14.46 - Mas Ricard: coba dicek, beneran ngirim request bodynya ga?
+18/12/19 14.49 - Fahmi Ali: ‎IMG-20191218-WA0009.jpg (file terlampir)
+i log sebelum postforobject mas
+18/12/19 14.53 - Mas Ricard: coba di debug di sini, benar ga dia kirim request bodynya
+18/12/19 16.24 - Fahmi Ali: dia nge debugnya cepet banget mas,
+tapi pas diliat di log info masuk mas
+18/12/19 16.27 - Mas Ricard: maksudnya gimana? kan bisa di kontrol pakai f5
+18/12/19 16.40 - Fahmi Ali: ‎IMG-20191218-WA0010.jpg (file terlampir)
+pas nge debug yang tadi langsung kesini mas
+18/12/19 17.03 - Mas Ricard: setting source nya, click edit source trus pilih projectnya
+18/12/19 17.25 - Fahmi Ali: udah mas tapi ttp kaya gitu
+18/12/19 17.41 - Mas Ricard: coba cek breakpointnya udh sesuai belum. soalnya kalau kayak gitu dia ga masuk ke debug, mungkin ada alur yg mesti dilewati dulu, coba ditrace
+18/12/19 17.41 - Mas Ricard: krn kalau lihat dari codinganmu, ga ada json param untuk request body yg kamu kirim
+18/12/19 17.42 - Mas Ricard: String jsonparamnya kamu komen, nah kemungkinan gegara ini
+18/12/19 17.43 - Fahmi Ali: oke siap mas, saya trace lagi dan coba2 lagi
+18/12/19 19.19 - Mas Ricard: iya
